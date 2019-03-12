@@ -1,4 +1,4 @@
-package io.github.czar-ec;
+package io.github.czar_ec;
 
 import static org.junit.Assert.assertTrue;
 
